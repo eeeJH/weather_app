@@ -6,7 +6,7 @@ import Loading from "./Loading";
 import axios from "axios";
 import Weather from "./Weather";
 
-var API_KEY = "8685e841145247b9d866d30d19de47e3";
+var API_KEY = "33aaf1db94cce6be2caf572faa280061";
 
 export default class extends React.Component {
   state = {

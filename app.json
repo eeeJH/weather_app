@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Created weather-app by React-Native.\n:)",
+    "githubUrl": "https://github.com/eeeJH/weather_app"
   }
 }
