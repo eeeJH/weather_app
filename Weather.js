@@ -63,7 +63,7 @@ var weatherOptions = {
     iconName: "weather-rainy",
     gradient: ["#43cea2", "#185a9d"],
     title: "Rain",
-    subTitle: "Take an umbreller",
+    subTitle: "Take an umbrella",
   },
   Snow: {
     iconName: "weather-snowy",
